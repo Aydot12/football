@@ -1,0 +1,33 @@
+body {
+    background-color:#ccf2ff;
+    color: blue;
+    font-size: 21px;
+    font-style: verdana;
+    text-align: left;
+}
+h1 {
+    color:
+    font-size: 20px;
+}
+a :hover{
+    color: red;
+}
+p{
+    font-size: 20px;
+    font-style: verdana;
+    color: blue;
+}
+summary{
+    color:blue;
+
+}
+
+.Player{
+    width: 300px;
+    border-radius: 50px;
+}
+
+    
+
+
+
